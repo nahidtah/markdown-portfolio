@@ -1,0 +1,1 @@
+![Image of rocks stacked next to each other next to a river](https://images.unsplash.com/photo-1592948864781-282285d20494?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1380&q=80)
