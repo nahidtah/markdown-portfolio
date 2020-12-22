@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Creative and curious, I've been learning **HTML** and __CSS__ to improve my grasp over *webdesign*.
