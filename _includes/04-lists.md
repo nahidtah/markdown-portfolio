@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+1. Learn HTML, CSS, ect. for web design. 
+2. Gain tools for creating games and  interactive story content. 
